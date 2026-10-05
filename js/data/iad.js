@@ -8,7 +8,11 @@
    ============================================================ */
 Subject('iad',{
   pdf:[
+<<<<<<< HEAD
     {title:'Lecture1 Recording', file:'media/iad/pdf/lecture1.pdf'},
+=======
+     {title:'Lecture1', file:'media/iad/pdf/lecture1.pdf'},
+>>>>>>> 6e524fab7a7225d625e163c078f94cb78e40a8ff
   ],
   video:[
     // {title:'Lecture 1 Recording', file:'media/iad/video/lecture1.mp4'},
