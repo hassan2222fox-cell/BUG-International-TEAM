@@ -8,7 +8,7 @@
    ============================================================ */
 Subject('iad',{
   pdf:[
-    // {title:'Lecture 1 Notes', file:'media/iad/pdf/lecture1.pdf', date:'2026-03-10', desc:'Intro'},
+     {title:'Lecture1', file:'media/iad/pdf/lecture1.pdf', date:'2026-03-10', desc:'Intro'},
   ],
   video:[
     // {title:'Lecture 1 Recording', file:'media/iad/video/lecture1.mp4'},
